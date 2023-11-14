@@ -41,4 +41,4 @@ async def check (ctx):
                 await ctx.send ('COBA MENGIRIM GAMBAR BARU!!!')
     else:
         await ctx.send('KAMU TIDAK MENGIRIM GAMBAR APAPUN :D')
-bot.run("MTExMDU1Nzk5MzM3Nzk5MjcxNA.GDYyJ4.4w4qL3B9fu2B-hc1zBC4aTlRs37jTMuhStOYnQ")
+bot.run("INSERT YOUR TOKEN HERE!")
